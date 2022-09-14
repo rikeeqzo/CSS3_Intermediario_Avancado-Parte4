@@ -28,3 +28,7 @@ li a {
 ul a:hover {
     color: #894a1f;
 }
+
+ul #atual {
+    background: url(../imagens/aba-direita-atual.png) no-repeat top right;
+}
