@@ -12,7 +12,6 @@ ul {
 }
 
 ul li {
-    border: 1px solid red;
     float: left;
     background: url(../imagens/aba-direita.png) no-repeat top right;
 }
@@ -22,5 +21,5 @@ li a {
     padding: 0 2em;
     line-height: 3em;
     text-decoration: none;
-    background: url(../imagens/aba-esquerda.png);
+    background: url(../imagens/aba-esquerda.png) no-repeat top left;
 }
