@@ -14,6 +14,7 @@ ul {
 ul li {
     border: 1px solid red;
     float: left;
+    background: url(../imagens/aba-direita.png);
 }
 
 li a {
