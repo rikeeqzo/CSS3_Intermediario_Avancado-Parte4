@@ -12,5 +12,13 @@ ul {
 }
 
 ul li {
+    border: 1px solid red;
     float: left;
+}
+
+li a {
+    display: block;
+    padding: 0 2em;
+    line-height: 3em;
+    text-decoration: none;
 }
